@@ -4,7 +4,7 @@
 Built a virtualized security lab environment to simulate real-world attack scenarios and practice detection, analysis, and remediation using SIEM tools.
 
 ## Architecture
-![Lab Diagram] (architecture/network-diagram.png)
+[Lab Diagram] (architecture/network-diagram.png)
 
 ## Environment
 -  Proxmox VE (Dell Optiplex host)
